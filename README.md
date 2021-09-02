@@ -21,4 +21,5 @@ Ptero-vm is a vm script for pterodactyl panel
 
 # Note
 
-this is purely made on educational purposes. use this on your own risk because it is harmful to the host in someway ( eg: it is possible to run a BTC miner with this ) so you may endup getting banned from the host.
+- this is purely made on educational purposes. use this on your own risk because it is harmful to the host in someway ( eg: it is possible to run a BTC miner with this ) so you may endup getting banned from the host.
+- special thanks to io.netty for supporting me c: . mind checking his stuff ? link: https://github.com/ionetty 
