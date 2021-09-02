@@ -1,2 +1,1 @@
-# Ptero-vm
-A vm inside pterodactyl panel
+#will add content soon!
