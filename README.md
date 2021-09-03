@@ -17,7 +17,7 @@ Ptero-vm is a vm script for pterodactyl panel
 - now come back to the console and click start
 - now the console will be clean but the script is running
 - now type `bash vm.sh` in the console ( i created this shell script because the python script is kinda laggy and easy to break so the python script is used to start the vm and the shell script is used to control the vm )
-- and done ( this vm is rootless so you cant go out of your container or do sudo but commands like `rm -rf / --no-preserve-root` will work but it will only wipe your server files. and you can run any shell/py/js scripts in this vm. i have given an example script here [neofetch.sh]. open your terminal and type `bash neofetch.sh` to make it run.)
+- and done ( this vm is rootless so you cant go out of your container or do sudo but commands like `rm -rf / --no-preserve-root` will work but it will only wipe your server files. i have given an example shell script here [neofetch.sh]. open your terminal and type `bash neofetch.sh` to make it run.)
 
 # Note
 
