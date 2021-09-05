@@ -43,7 +43,7 @@ echo
 echo
 echo "the vm has been started c;"
 docmd() {
-    read -p "${bold}${lightgreen}default${normal}@P${lightblue}tero-vm:~${normal} " CMD
+    read -p "${bold}${lightgreen}default${normal}@${lightblue}Ptero-vm:~${normal} " CMD
     eval "$CMD"
     docmd2
 }
