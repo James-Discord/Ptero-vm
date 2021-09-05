@@ -14,7 +14,8 @@ Ptero-vm is a vm script for pterodactyl panel
 - upload the whole file inside
 - go to its startup section
 - change the startup file name to start.py
-- the console will be empty but the script is running. to check it is running or not type any terminal commands 
+- and in aditional python packages section type requirements.txt
+- the console will be empty but the script is running. to check it is running or not type any terminal commands
 
 # Note
 
